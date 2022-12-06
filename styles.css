@@ -18,6 +18,12 @@ body {
   justify-content: center;
 }
 
+.heading {
+  font-size: 3em;
+  font-weight: bold;
+  padding-bottom: 1em;
+}
+
 .quote-container {
   width: auto;
   max-width: 900px;
